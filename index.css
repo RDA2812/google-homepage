@@ -1,0 +1,78 @@
+body{
+    
+    font-family: 'Noto Sans', sans-serif;
+    
+}
+
+nav{
+
+    font-size: 15px;
+
+}
+
+    nav a {
+
+        text-decoration: none;
+        color: black;
+        padding: 5px;
+    }
+
+    .sign-in{
+        display: inline-block;
+       background: royalblue; 
+       color: white;
+       padding: 6px;
+       margin-left: 5px;
+       margin-top: -10px;
+       border-radius: 3px;
+       border: none;
+       width: 80px;
+       margin-right: 5px;
+    }
+
+
+        .glucky{
+
+                margin-top: 25px;
+                width: 200px;
+                background-color: #f2f2f2;
+                border: 1px solid #f2f2f2;
+                margin-left: 10px;
+                
+        }
+
+     
+
+
+
+    .right{
+
+        float: right;
+        direction: inherit;
+
+    }
+
+.logo-search{
+
+
+    text-align: center;
+    margin-top: 200px;
+
+}
+
+
+input{
+    margin-top: 20px;
+    width: 500px;
+    box-sizing: border-box;
+    border-radius: 10px;
+    height: 30px;
+
+    
+}
+
+input:hover{
+
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
