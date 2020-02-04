@@ -1,0 +1,35 @@
+html {
+
+    font-family: arial, sans-serif;
+}
+
+p{
+
+    text-align: center;
+
+}
+
+.logo{
+    max-width: 350px;
+
+}
+    ul{
+        width: 100%;
+        display: inline-flex;
+        flex-direction: row;
+        list-style-type: none;
+      }
+      
+      li{
+        height: 50px;
+        line-height: 5px;
+        text-align: center;
+        flex-grow: 1;
+      }
+
+button{
+    position: absolute;
+    top: 10px;
+    width: 100px;
+    
+}
